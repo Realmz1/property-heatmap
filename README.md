@@ -1,3 +1,12 @@
+# Overview
+
+As a software engineer, I am constantly exploring new ways to visualize large datasets and improve my frontend engineering skills. To further my learning in spatial data visualization and modern UI development, I built this interactive mapping project.
+
+An interactive property value heatmap mapping the latest real estate prices across Arizona, built with React and Leaflet. Users can interact with the map by panning, zooming, and hovering over specific ZIP codes to view the latest home value estimates. The data pipeline takes a raw CSV dataset from the Zillow Home Value Index (ZHVI), filters out everything except Arizona properties, and merges it with a digital boundary map (GeoJSON) so the application can color "inside the lines" of each ZIP code.
+
+The main purpose of writing this software is to gain hands-on experience mapping geographical structures using Leaflet and to handle the end-to-end flow of raw data ingestion, transformation, and interactive frontend presentation.
+
+[Software Demo Video](https://canva.link/glvr9r2xbtq217z)
 # Property Heatmap 🏠
 
 An interactive property value heatmap mapping the latest real estate prices across Arizona, built with React and Leaflet. 

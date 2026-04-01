@@ -1,0 +1,16 @@
+{
+  "name": "property-heatmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "process_data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "zipcodes": "^8.0.0"
+  }
+}
